@@ -19,5 +19,5 @@ The part that was hard to figure out was the allocation block of the memory if t
 Here we are allocating a fixed block size of 200000.
 I could assign it as CONST INT BLOCK_SIZE=INF;
 but still, the processing takes a bit too long.
-so if the mem_allocation exceeds, the system will automatically divides the block.
+so if the mem_allocation exceeds, the system will automatically divides the block, so this func is majorly handled by lsh_loop()
 
