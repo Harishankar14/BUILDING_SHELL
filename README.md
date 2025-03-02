@@ -21,3 +21,4 @@ I could assign it as CONST INT BLOCK_SIZE=INF;
 but still, the processing takes a bit too long.
 so if the mem_allocation exceeds, the system will automatically divides the block, so this func is majorly handled by lsh_loop()
 
+![image](https://github.com/user-attachments/assets/74fd6626-7065-4bed-8038-445dc5ee362c)
